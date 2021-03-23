@@ -11,7 +11,7 @@ This work is in proceeds of the paper we are prepering in those days. The paper 
 2. [Dataset](#Dataset)
 3. [Feature Selection](#Feature_Selection)
 4. [OIEI](#OIEI)
-5. [Usage](#Usage)
+5. [Run](#Usage)
 
 <a name="Prerequisites"/>
 
