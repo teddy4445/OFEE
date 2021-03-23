@@ -11,7 +11,7 @@ This work is in proceeds of the paper we are prepering in those days. The paper 
 2. [Dataset](#Dataset)
 3. [Feature Selection](#Feature_Selection)
 4. [OIEI](#OIEI)
-5. [Run](#Usage)
+5. [Usage](#Usage)
 
 <a name="Prerequisites"/>
 
@@ -82,6 +82,7 @@ OIEI is the algorithm for iterative ensemble of feature selection procedure. The
 
 The three hyperparameters (t_1, t_2, t_3) are as follows. Hyperparameter 1 (t_1) is the final subset we want. It can be a percentage of the features or a fixed number. Hyperparameter 2 (t_2) is the subset of the features (90% or 50%) that takes iteratively with removing or maintain features with hyperparameter 3 (t_3) till convergance to hyperparameter 1. Hyperparameter 3 is the method of selection numbers of features that occurs in the feature selection algorithms. If hyperparameter 3 = 1 it is mean that a least one feature need to be presented in three ranked feature selection algorithms. That mean it is an union operation. Hyperparameter 3 = 2 mean that one feature need to be at least in tow ranked features. Hyperparameter 3 = 3 mean that particular feature need to be in all features rankes, in other words an intersection aggregation.
 
+<a name="Usage"/>
 
 ## Run
 
