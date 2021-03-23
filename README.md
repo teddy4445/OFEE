@@ -84,7 +84,7 @@ The three hyperparameters (t_1, t_2, t_3) are as follows. Hyperparameter 1 (t_1)
 
 <a name="Usage"/>
 
-## Run
+## Usage
 
 The Run function in the **expirements** folder contain:
 1. Adaboost explainability and performance.
