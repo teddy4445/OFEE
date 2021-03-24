@@ -94,7 +94,7 @@ The Run function in the **expirements** folder contain:
 
 
 ```bash
-cd /expirements/run.py
+/expirements.py
 
 
 Adaboost(model=DecisionTreeClassifier,performance=get_score, explainability=explainability_metric,
