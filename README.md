@@ -1,4 +1,4 @@
-# Balanced Explainability-Performance Feature Selection Algorithm through Iterative Ensemble 
+# OFEE: An Algorithm to Optimize Explainability using Feature Ensembles
 
 
 This work is in proceeds of the paper we are prepering in those days. The paper aims to present a new methodoldy on explainability within an transperent models. Our approach is to search only 3 hyper parameters that will serve appropiate performance and explainability. We mainly focus of using an methodlogy of optimization for explainability metric which is a noval for our knowledge. We devlop an Iterative Ensemble of Intersections (IEI) algorithm which is optimized for explainability use case.
